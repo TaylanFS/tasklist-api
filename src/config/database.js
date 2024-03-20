@@ -14,14 +14,3 @@ module.exports = {
         underscoredAll: true,
     },
 };
-
-// export const dialect = 'postgres';
-// export const host = 'localhost';
-// export const username = 'postgres';
-// export const password = '123456';
-// export const database = 'tasklist';
-// export const define = {
-//     timestamps: true,
-//     underscored: true,
-//     underscoredAll: true,
-// };
